@@ -1109,10 +1109,10 @@
 			}
 
 			.item header a {
-				/*-moz-transition: -moz-transform 0.2s ease;
+				-moz-transition: -moz-transform 0.2s ease;
 				-webkit-transition: -webkit-transform 0.2s ease;
 				-ms-transition: -ms-transform 0.2s ease;
-				transition: transform 0.2s ease;*/
+				transition: transform 0.2s ease;
 				background-size: cover;
 				background-position: center;
 				background-repeat: no-repeat;
@@ -1136,10 +1136,10 @@
 				}
 
 			.item header:hover a {
-				/*-moz-transform: scale(1.1);
+				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
 				-ms-transform: scale(1.1);
-				transform: scale(1.1);*/
+				transform: scale(1.1);
 			}
 
 			.item header > * {
