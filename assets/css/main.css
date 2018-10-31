@@ -75,6 +75,9 @@
 
 	body {
 		background: #f4f4f4;
+		background-image: url("https://images2.imgbox.com/20/10/7vUSnTle_o.png");
+		background-repeat: repeat;
+		background-attachment: fixed;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1069,7 +1072,6 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			background-color: #444;
 			color: rgba(255, 255, 255, 0.75);
 			position: relative;
 			overflow: hidden;
